@@ -1,0 +1,13 @@
+project_id,project,region,owner,approved_budget,committed,invoiced_to_date,status,target_closeout
+CP-2401,Central - OR Renovation,Central,J. Alvarez,480000,377000.0,254000.0,Active,2026-01-20
+CP-2402,East - Imaging Suite,East,K. Brooks,2800000,2238000.0,1656000.0,Active,2026-01-08
+CP-2403,West - HVAC Replacement,West,S. Patel,750000,668000.0,375000.0,Active,2026-05-31
+CP-2404,Central - ED Expansion,Central,D. Okafor,1500000,1485000.0,1013000.0,Active,2026-01-25
+CP-2405,East - Roof Replacement,East,J. Alvarez,1200000,1009000.0,653000.0,Active,2026-01-11
+CP-2406,West - Pharmacy Upgrade,West,J. Alvarez,1500000,1202000.0,1120000.0,Closeout,2026-02-21
+CP-2407,Central - Generator Install,Central,S. Patel,2100000,1886000.0,1863000.0,Closeout,2025-10-11
+CP-2408,East - Lab Remodel,East,K. Brooks,900000,866000.0,717000.0,Active,2026-05-12
+CP-2409,West - Parking Structure,West,K. Brooks,480000,379000.0,247000.0,Active,2026-01-05
+CP-2410,Central - Patient Tower Refresh,Central,M. Chen,480000,415000.0,313000.0,Closeout,2025-11-03
+CP-2411,East - Sterile Processing,East,S. Patel,1200000,991000.0,991000.0,Closed,2025-11-07
+CP-2412,West - Clinic Build-Out,West,M. Chen,620000,556000.0,367000.0,Closeout,2026-03-23
