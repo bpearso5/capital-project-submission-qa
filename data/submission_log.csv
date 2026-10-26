@@ -1,0 +1,97 @@
+submission_id,week,submitted,project_id,doc_type,amount,submitted_by,checklist_used,first_pass_outcome,rejection_reason,resubmissions,days_to_final_approval
+S-1001,1,2025-09-02,CP-2411,Commitment Change,42700.0,J. Alvarez,No,Rejected,"Required backup missing (signed pay app, lien waiver)",1,6
+S-1002,1,2025-09-02,CP-2406,PO,51100.0,D. Okafor,No,Rejected,Retainage or math error,1,11
+S-1003,1,2025-09-03,CP-2407,PO,29100.0,S. Patel,No,Rejected,"Required backup missing (signed pay app, lien waiver)",1,14
+S-1004,1,2025-09-04,CP-2407,Commitment Change,74300.0,J. Alvarez,No,Rejected,Retainage or math error,1,14
+S-1005,1,2025-09-04,CP-2401,Invoice,30900.0,D. Okafor,No,Rejected,PO number missing or does not match commitment,1,7
+S-1006,1,2025-09-01,CP-2410,PO,97100.0,S. Patel,No,Approved,,0,2
+S-1007,1,2025-09-01,CP-2405,Invoice,23600.0,M. Chen,No,Approved,,0,5
+S-1008,1,2025-09-05,CP-2409,Invoice,93400.0,K. Brooks,No,Rejected,PO number missing or does not match commitment,1,14
+S-1009,2,2025-09-12,CP-2403,Invoice,138200.0,M. Chen,No,Approved,,0,2
+S-1010,2,2025-09-09,CP-2408,Invoice,23700.0,J. Alvarez,No,Approved,,0,4
+S-1011,2,2025-09-12,CP-2404,Commitment Change,170700.0,K. Brooks,No,Rejected,Amount exceeds remaining commitment balance,1,7
+S-1012,2,2025-09-09,CP-2403,PO,170600.0,S. Patel,No,Rejected,Amount exceeds remaining commitment balance,1,12
+S-1013,2,2025-09-11,CP-2404,Invoice,74200.0,S. Patel,No,Approved,,0,4
+S-1014,2,2025-09-09,CP-2408,Invoice,47600.0,S. Patel,No,Rejected,Cost code missing or not on approved budget line,1,14
+S-1015,2,2025-09-08,CP-2404,Invoice,16500.0,J. Alvarez,No,Approved,,0,3
+S-1016,2,2025-09-09,CP-2406,Invoice,94500.0,S. Patel,No,Rejected,Amount exceeds remaining commitment balance,1,14
+S-1017,3,2025-09-16,CP-2410,PO,46800.0,J. Alvarez,No,Approved,,0,5
+S-1018,3,2025-09-15,CP-2402,PO,66400.0,J. Alvarez,No,Approved,,0,2
+S-1019,3,2025-09-18,CP-2407,Invoice,144900.0,K. Brooks,No,Rejected,Cost code missing or not on approved budget line,1,14
+S-1020,3,2025-09-19,CP-2407,Invoice,53000.0,J. Alvarez,No,Rejected,Routed to wrong approver,1,13
+S-1021,3,2025-09-16,CP-2401,Commitment Change,151100.0,D. Okafor,No,Approved,,0,3
+S-1022,3,2025-09-16,CP-2408,PO,41600.0,D. Okafor,No,Approved,,0,2
+S-1023,3,2025-09-17,CP-2401,PO,50700.0,D. Okafor,No,Approved,,0,5
+S-1024,3,2025-09-15,CP-2409,PO,31200.0,M. Chen,No,Rejected,Retainage or math error,1,14
+S-1025,4,2025-09-22,CP-2401,Invoice,106800.0,S. Patel,No,Approved,,0,3
+S-1026,4,2025-09-22,CP-2402,Invoice,16100.0,S. Patel,No,Rejected,Routed to wrong approver,1,12
+S-1027,4,2025-09-26,CP-2404,Commitment Change,108600.0,S. Patel,No,Approved,,0,5
+S-1028,4,2025-09-24,CP-2409,Invoice,168500.0,D. Okafor,No,Rejected,PO number missing or does not match commitment,1,9
+S-1029,4,2025-09-22,CP-2403,Invoice,84500.0,D. Okafor,No,Approved,,0,2
+S-1030,4,2025-09-23,CP-2410,Commitment Change,179300.0,M. Chen,No,Rejected,Cost code missing or not on approved budget line,1,10
+S-1031,4,2025-09-26,CP-2402,Invoice,69000.0,S. Patel,No,Rejected,"Required backup missing (signed pay app, lien waiver)",1,10
+S-1032,4,2025-09-24,CP-2401,Commitment Change,56700.0,J. Alvarez,No,Approved,,0,3
+S-1033,5,2025-09-30,CP-2402,Commitment Change,31400.0,M. Chen,No,Rejected,Cost code missing or not on approved budget line,1,11
+S-1034,5,2025-09-29,CP-2409,PO,48200.0,D. Okafor,No,Approved,,0,2
+S-1035,5,2025-09-30,CP-2405,Invoice,4600.0,D. Okafor,No,Approved,,0,4
+S-1036,5,2025-10-03,CP-2409,PO,102700.0,J. Alvarez,No,Rejected,Retainage or math error,1,8
+S-1037,5,2025-10-01,CP-2406,Commitment Change,101200.0,M. Chen,No,Approved,,0,2
+S-1038,5,2025-10-02,CP-2401,Invoice,41000.0,S. Patel,No,Rejected,Cost code missing or not on approved budget line,1,14
+S-1039,5,2025-10-02,CP-2403,Invoice,156200.0,J. Alvarez,No,Approved,,0,3
+S-1040,5,2025-10-01,CP-2403,Invoice,141700.0,K. Brooks,No,Approved,,0,3
+S-1041,6,2025-10-07,CP-2402,PO,157500.0,D. Okafor,No,Approved,,0,3
+S-1042,6,2025-10-06,CP-2406,Invoice,148400.0,K. Brooks,No,Approved,,0,3
+S-1043,6,2025-10-10,CP-2407,Invoice,53000.0,D. Okafor,No,Rejected,"Required backup missing (signed pay app, lien waiver)",1,11
+S-1044,6,2025-10-07,CP-2411,Commitment Change,62300.0,S. Patel,No,Rejected,Routed to wrong approver,1,10
+S-1045,6,2025-10-09,CP-2405,Invoice,23100.0,S. Patel,No,Approved,,0,4
+S-1046,6,2025-10-06,CP-2409,Invoice,71800.0,D. Okafor,No,Approved,,0,4
+S-1047,6,2025-10-08,CP-2401,Commitment Change,166900.0,D. Okafor,No,Approved,,0,3
+S-1048,6,2025-10-08,CP-2402,Invoice,113700.0,S. Patel,No,Approved,,0,2
+S-1049,7,2025-10-14,CP-2405,PO,61400.0,D. Okafor,Yes,Approved,,0,3
+S-1050,7,2025-10-16,CP-2411,PO,123200.0,S. Patel,Yes,Approved,,0,4
+S-1051,7,2025-10-16,CP-2401,Invoice,54500.0,D. Okafor,Yes,Approved,,0,4
+S-1052,7,2025-10-13,CP-2408,Invoice,94000.0,M. Chen,Yes,Approved,,0,3
+S-1053,7,2025-10-15,CP-2409,Commitment Change,63000.0,K. Brooks,Yes,Approved,,0,3
+S-1054,7,2025-10-17,CP-2404,Invoice,8300.0,J. Alvarez,Yes,Approved,,0,5
+S-1055,7,2025-10-16,CP-2408,PO,160000.0,D. Okafor,Yes,Approved,,0,5
+S-1056,7,2025-10-16,CP-2404,Invoice,119500.0,K. Brooks,Yes,Rejected,Routed to wrong approver,1,7
+S-1057,8,2025-10-23,CP-2403,Commitment Change,85800.0,K. Brooks,Yes,Approved,,0,2
+S-1058,8,2025-10-24,CP-2408,Commitment Change,177900.0,S. Patel,Yes,Approved,,0,5
+S-1059,8,2025-10-23,CP-2407,Commitment Change,82500.0,M. Chen,Yes,Approved,,0,5
+S-1060,8,2025-10-22,CP-2404,Invoice,138800.0,D. Okafor,Yes,Approved,,0,3
+S-1061,8,2025-10-21,CP-2402,Invoice,45300.0,K. Brooks,Yes,Approved,,0,2
+S-1062,8,2025-10-23,CP-2404,PO,126100.0,D. Okafor,Yes,Approved,,0,2
+S-1063,8,2025-10-24,CP-2406,Commitment Change,86000.0,J. Alvarez,Yes,Rejected,Routed to wrong approver,1,12
+S-1064,8,2025-10-23,CP-2410,PO,87900.0,D. Okafor,Yes,Approved,,0,4
+S-1065,9,2025-10-28,CP-2409,Commitment Change,144800.0,M. Chen,Yes,Approved,,0,5
+S-1066,9,2025-10-28,CP-2407,PO,9100.0,D. Okafor,Yes,Approved,,0,5
+S-1067,9,2025-10-27,CP-2403,Commitment Change,98000.0,D. Okafor,Yes,Approved,,0,2
+S-1068,9,2025-10-28,CP-2403,PO,36000.0,D. Okafor,Yes,Approved,,0,4
+S-1069,9,2025-10-29,CP-2406,Invoice,138000.0,J. Alvarez,Yes,Approved,,0,5
+S-1070,9,2025-10-27,CP-2408,Invoice,135800.0,J. Alvarez,Yes,Rejected,Retainage or math error,1,9
+S-1071,9,2025-10-30,CP-2401,Invoice,39100.0,J. Alvarez,Yes,Rejected,Amount exceeds remaining commitment balance,1,8
+S-1072,9,2025-10-28,CP-2410,Invoice,85800.0,S. Patel,Yes,Approved,,0,4
+S-1073,10,2025-11-03,CP-2410,Invoice,140900.0,S. Patel,Yes,Approved,,0,4
+S-1074,10,2025-11-06,CP-2401,Invoice,105300.0,K. Brooks,Yes,Approved,,0,5
+S-1075,10,2025-11-05,CP-2402,Commitment Change,125500.0,S. Patel,Yes,Approved,,0,2
+S-1076,10,2025-11-05,CP-2402,Commitment Change,141700.0,J. Alvarez,Yes,Approved,,0,5
+S-1077,10,2025-11-03,CP-2409,Invoice,6200.0,D. Okafor,Yes,Approved,,0,5
+S-1078,10,2025-11-07,CP-2406,PO,128500.0,S. Patel,Yes,Approved,,0,4
+S-1079,10,2025-11-05,CP-2408,PO,80700.0,K. Brooks,Yes,Approved,,0,4
+S-1080,10,2025-11-07,CP-2402,Invoice,159200.0,S. Patel,Yes,Approved,,0,5
+S-1081,11,2025-11-11,CP-2411,PO,63200.0,D. Okafor,Yes,Approved,,0,4
+S-1082,11,2025-11-14,CP-2404,Invoice,144400.0,J. Alvarez,Yes,Approved,,0,4
+S-1083,11,2025-11-14,CP-2409,Invoice,19100.0,K. Brooks,Yes,Approved,,0,5
+S-1084,11,2025-11-11,CP-2408,PO,82900.0,M. Chen,Yes,Rejected,Amount exceeds remaining commitment balance,1,12
+S-1085,11,2025-11-13,CP-2411,Commitment Change,68900.0,S. Patel,Yes,Approved,,0,4
+S-1086,11,2025-11-11,CP-2406,Invoice,127700.0,J. Alvarez,Yes,Approved,,0,4
+S-1087,11,2025-11-11,CP-2404,Invoice,25000.0,K. Brooks,Yes,Approved,,0,3
+S-1088,11,2025-11-10,CP-2408,Invoice,131500.0,K. Brooks,Yes,Approved,,0,4
+S-1089,12,2025-11-19,CP-2405,Invoice,67500.0,J. Alvarez,Yes,Approved,,0,3
+S-1090,12,2025-11-17,CP-2401,Commitment Change,55400.0,J. Alvarez,Yes,Approved,,0,5
+S-1091,12,2025-11-17,CP-2410,Invoice,86600.0,M. Chen,Yes,Approved,,0,3
+S-1092,12,2025-11-21,CP-2408,Invoice,148700.0,J. Alvarez,Yes,Approved,,0,2
+S-1093,12,2025-11-18,CP-2403,Invoice,146800.0,J. Alvarez,Yes,Approved,,0,2
+S-1094,12,2025-11-21,CP-2409,PO,110700.0,D. Okafor,Yes,Approved,,0,3
+S-1095,12,2025-11-19,CP-2408,PO,56300.0,S. Patel,Yes,Approved,,0,5
+S-1096,12,2025-11-18,CP-2410,Invoice,111300.0,M. Chen,Yes,Approved,,0,3
