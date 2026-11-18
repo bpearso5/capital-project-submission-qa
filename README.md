@@ -4,6 +4,14 @@ A rebuilt case study of work I did on a multi-region healthcare capital portfoli
 
 > **All data here is synthetic.** Projects, people, amounts, and dates are invented. No client data, files, or screenshots are included. The rejection categories are modeled on the kinds of issues I worked through in practice.
 
+## Preview
+
+The one-page weekly executive report from the workbook. Every figure is a formula.
+
+![Weekly executive report: budget position, submission quality before and after the checklist, and flagged projects](docs/images/weekly_exec_report.png)
+
+**[View every tab as a PDF](workbook/Capital_Project_Submission_QA_and_Weekly_Report.pdf)** (opens in the browser) · [Download the Excel file](workbook/Capital_Project_Submission_QA_and_Weekly_Report.xlsx) to see the formulas
+
 ## The problem
 
 On a capital portfolio, every invoice, PO, and commitment change has to clear review before it routes for approval. When submissions come back rejected, the cost isn't just rework. Payment slows down, resubmissions pile up, and the budget position leadership sees falls behind.
@@ -17,6 +25,7 @@ This repo rebuilds that work at small scale so it can be shown.
 | Path | What it is |
 |---|---|
 | `workbook/Capital_Project_Submission_QA_and_Weekly_Report.xlsx` | The full work sample: five tabs, every summary built from live formulas |
+| `workbook/Capital_Project_Submission_QA_and_Weekly_Report.pdf` | Every tab as a PDF, viewable without Excel |
 | `data/submission_log.csv` | 96 synthetic submissions over 12 weeks; checklist introduced at week 7 |
 | `data/projects.csv` | 12 synthetic capital projects with budget, commitment, and closeout data |
 | `docs/pre_submission_checklist.md` | The checklist, each item mapped to the rejection it prevents |
